@@ -1,1 +1,1 @@
-Gradient Ai HAckathon - Team Zero 
+Gradient Ai Project - Team Zero
