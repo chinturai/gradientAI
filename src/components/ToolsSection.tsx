@@ -15,7 +15,7 @@ const tools = [
     name: "Text-to-Speech",
     description: "Convert written content to natural-sounding audio for auditory learners.",
     icon: <Volume2 className="h-6 w-6" />,
-    link: "#",
+    link: "https://voice-clarity-scribe-speak.lovable.app/",
     color: "from-green-500 to-emerald-600"
   },
   {
@@ -29,7 +29,7 @@ const tools = [
     name: "PDF Summarization",
     description: "Extract key information from documents to improve comprehension.",
     icon: <FileText className="h-6 w-6" />,
-    link: "#",
+    link: "https://smart-pdf-unfold.lovable.app/",
     color: "from-red-500 to-pink-600"
   },
   {
